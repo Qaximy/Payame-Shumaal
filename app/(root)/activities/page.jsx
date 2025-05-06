@@ -35,7 +35,7 @@ const Activities = () => {
       description: "Explore vibrant coral reefs and marine life"
     },
     {
-      id: 1,
+      id: 2,
       title: "Bali Scuba Diving Adventure",
       image: "/images/culture.jpeg",
       price: 149,
@@ -47,7 +47,7 @@ const Activities = () => {
       description: "Explore vibrant coral reefs and marine life"
     },
     {
-      id: 1,
+      id: 3,
       title: "Bali Scuba Diving Adventure",
       image: "/images/Gilgit-Baltistan-a-winter-wonder-land.jpg",
       price: 149,
@@ -60,7 +60,7 @@ const Activities = () => {
     },
 
     {
-      id: 1,
+      id: 4,
       title: "Bali Scuba Diving Adventure",
       image: "/images/winter-sport.png",
       price: 149,
@@ -72,7 +72,7 @@ const Activities = () => {
       description: "Explore vibrant coral reefs and marine life"
     },
     {
-      id: 1,
+      id: 5,
       title: "Bali Scuba Diving Adventure",
       image: "/images/cullture1.jpeg",
       price: 149,
@@ -84,7 +84,7 @@ const Activities = () => {
       description: "Explore vibrant coral reefs and marine life"
     },
     {
-      id: 1,
+      id: 6,
       title: "Bali Scuba Diving Adventure",
       image: "/images/parpo.jpeg",
       price: 149,
